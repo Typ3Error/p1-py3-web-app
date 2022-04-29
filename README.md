@@ -17,7 +17,7 @@ pip install flask
 ```
 Set Flask ENV Variables
 ```
-export FLASK_APP=hello 
+export FLASK_APP=app
 export FLASK_ENV=development
 ```
 Run Flask

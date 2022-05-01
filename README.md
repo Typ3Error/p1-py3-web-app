@@ -1,6 +1,8 @@
 # Project 1
-### Overview
----------------
+###Simple Blog Post website!
+
+<!-- link to tutorial! https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3#editing-a-post -->
+
 ### Development
 ---------------
 Create Virtual Enviroment 
@@ -28,4 +30,3 @@ If you need to change the port
 ```
 flask run -p 5001
 ```
-### Usage

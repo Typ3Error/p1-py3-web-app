@@ -1,5 +1,5 @@
 # Project 1
-###Simple Blog Post website!
+### Simple Blog Post website!
 
 <!-- link to tutorial! https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3#editing-a-post -->
 
